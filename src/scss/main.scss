@@ -1,3 +1,9 @@
-body {
-  background: rgb(29, 29, 29);
-}
+@import "variables";
+@import "global";
+@import "reusable";
+@import "header";
+@import "about";
+@import "services";
+@import "portfolio";
+@import "timeline";
+@import "contact";
